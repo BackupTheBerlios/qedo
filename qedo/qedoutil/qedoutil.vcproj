@@ -331,6 +331,9 @@ copy $(TargetPath) $(QEDO)\bin
 				RelativePath="DTMReader.h">
 			</File>
 			<File
+				RelativePath="DestinationData.h">
+			</File>
+			<File
 				RelativePath="InstallationReader.h">
 			</File>
 			<File
